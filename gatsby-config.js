@@ -131,7 +131,7 @@ module.exports = {
         name: `Overreacted`,
         short_name: `Overreacted`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#000`,
         theme_color: `#ffa7c4`,
         display: `minimal-ui`,
         icon: `src/assets/icon.png`,
