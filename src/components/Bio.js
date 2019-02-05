@@ -22,7 +22,7 @@ class Bio extends React.Component {
             borderRadius: '50%',
           }}
         />
-        <p style={{ maxWidth: 310 }}>
+        <p style={{fontFamily: 'Inter, sans-serif', maxWidth: 310 }}>
           Personal blog by{' '}
           <a href="#">Eugene Lazarev</a>.{' '}
           I&nbsp;explain with words and code.
