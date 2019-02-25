@@ -4,9 +4,9 @@ body {
 }
 
 body.light {
-  --bg: #000;
+  --bg: #e7ede3;
   --header: var(--pink);
-  --textNormal: #ffefe0;
+  --textNormal: #000;
   --textTitle: #ee483c;
   --textLink: #ee483c;
   --hr: hsla(0, 0%, 0%, 0.2);
