@@ -113,7 +113,7 @@ class Signup extends React.Component {
                 className="formkit-submit formkit-submit"
                 style={{
                   backgroundColor: 'hsl(340, 63%, 55%)',
-                  borderRadius: '24px',
+                  borderRadius: '8px',
                   color: 'white',
                   fontWeight: 700,
                 }}
