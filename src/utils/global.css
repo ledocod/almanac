@@ -6,7 +6,7 @@ body {
 body.light {
   --bg: #e7ede3;
   --header: var(--pink);
-  --textNormal: #000;
+  --textNormal: #525252;
   --textTitle: #128488;
   --textLink: #128488;
   --hr: hsla(0, 0%, 0%, 0.2);
