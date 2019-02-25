@@ -1,14 +1,14 @@
 body {
-  --pink: rgb(255, 167, 196);
+  --red: #fc5c63;
   background-color: var(--bg);
 }
 
 body.light {
   --bg: #e7ede3;
-  --header: var(--black);
-  --textNormal: #222222;
+  --header: var(--red);
+  --textNormal: #222;
   --textTitle: #000;
-  --textLink: #076468;
+  --textLink: #fc5c63;
   --hr: hsla(0, 0%, 0%, 0.2);
   --inlineCode-bg: rgba(255, 229, 100, 0.2);
   --inlineCode-text: #1a1a1a;
@@ -21,7 +21,7 @@ body.dark {
   --header: #fc5c63;
   --textNormal: rgba(255, 255, 255, 0.88);
   --textTitle: #ffffff;
-  --textLink: var(--pink);
+  --textLink: var(--red);
   --hr: hsla(0, 0%, 100%, 0.2);
   --inlineCode-bg: hsl(222, 14%, 25%);
   --inlineCode-text: #e6e6e6;
