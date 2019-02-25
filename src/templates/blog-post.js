@@ -207,7 +207,7 @@ class BlogPostTemplate extends React.Component {
               }}
               to={'/'}
             >
-              Overreacted
+              Indesign
             </Link>
           </h3>
           <Bio />
