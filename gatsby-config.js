@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'indesign',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
+    title: 'Indesign',
+    author: 'Eugene Lazarev',
+    description: 'Personal blog by Eugene Lazarev. I explain with words and code.',
     siteUrl: 'https://indesign.io',
     social: {
       twitter: '@dan_abramov',
