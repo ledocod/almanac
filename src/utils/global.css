@@ -7,8 +7,8 @@ body.light {
   --bg: #e7ede3;
   --header: var(--pink);
   --textNormal: #000;
-  --textTitle: #ee483c;
-  --textLink: #ee483c;
+  --textTitle: #fc5c63;
+  --textLink: #fc5c63;
   --hr: hsla(0, 0%, 0%, 0.2);
   --inlineCode-bg: rgba(255, 229, 100, 0.2);
   --inlineCode-text: #1a1a1a;
