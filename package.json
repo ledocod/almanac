@@ -1,11 +1,11 @@
 {
-  "name": "overreacted",
+  "name": "indesign",
   "private": true,
-  "description": "Overreacted",
+  "description": "indesign",
   "version": "1.0.0",
   "author": "Dan Abramov <dan.abramov@me.com>",
   "bugs": {
-    "url": "https://github.com/gaearon/overreacted.io/issues"
+    "url": "https://github.com/gaearon/indesign.io/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
@@ -44,7 +44,7 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://overreacted.io",
+  "homepage": "https://indesign.io",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
@@ -54,7 +54,7 @@
     "start": "npm run develop",
     "build": "rm -rf public && rm -rf .cache && gatsby build",
     "now-build": "gatsby build",
-    "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) overreacted.io",
+    "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) indesign.io",
     "dry": "yarn build && cp now.json public/ && cd public && now"
   },
   "husky": {
