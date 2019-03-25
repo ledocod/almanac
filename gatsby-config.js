@@ -5,7 +5,7 @@ module.exports = {
     description: 'Personal blog by Eugene Lazarev. I explain with words and code.',
     siteUrl: 'https://indesign.io',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@',
     },
   },
   pathPrefix: '/',
