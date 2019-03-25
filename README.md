@@ -1,6 +1,6 @@
 # [indesign.io](https://indesign.io/)
 
-My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
+My personal blog. A place where I talk about design using my experience and explain from a developer's point-of-view.
 
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 
