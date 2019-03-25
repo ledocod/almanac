@@ -24,7 +24,7 @@ class Bio extends React.Component {
         />
         <p style={{fontFamily: 'Inter, sans-serif', maxWidth: 310 }}>
           Personal blog by{' '}
-          <a href="#">Eugene Lazarev</a>.{' '}
+          <a href="https://elazarev.me">Eugene Lazarev</a>.{' '}
           I&nbsp;explain with words and code.
         </p>
       </div>
