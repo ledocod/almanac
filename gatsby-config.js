@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'UX UI Design',
+    title: 'design almanac',
     author: 'Eugene Lazarev',
     description: 'Personal blog by Eugene Lazarev. I explain with words and code.',
     siteUrl: 'https://uxuidesign.pro',
