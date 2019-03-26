@@ -6,5 +6,5 @@ using my experience.
 ## Personal Blog
 
 <p align="center">
-  <img src = "../almanac/src/assets/readmepic.png">
+  <img width = "100%" src = "https://raw.githubusercontent.com/ledocod/almanac/master/src/assets/readmepic.png">
 </p>
