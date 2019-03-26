@@ -1,7 +1,6 @@
 # [uxuidesign.pro](https://uxuidesign.pro/)
 
-Eugene Lazarev Personal Blog. A place where I explain design from a developer's point-of-view
-using my experience.
+Eugene Lazarev's Personal Blog. About design from a developer's point-of-view.
 
 ## Personal Blog
 

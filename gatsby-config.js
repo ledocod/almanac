@@ -120,7 +120,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Dan Abramov's indesign Blog RSS Feed",
+            title: "Eugene Lazarev's Blog RSS Feed",
           },
         ],
       },
