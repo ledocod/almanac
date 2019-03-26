@@ -1,4 +1,4 @@
-# [indesign.io](https://indesign.io/)
+# [uxuidesign.pro](https://uxuidesign.pro/)
 
 My personal blog. A place where I talk about design using my experience and explain from a developer's point-of-view.
 

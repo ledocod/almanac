@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Indesign',
+    title: 'UX UI Design',
     author: 'Eugene Lazarev',
     description: 'Personal blog by Eugene Lazarev. I explain with words and code.',
-    siteUrl: 'https://indesign.io',
+    siteUrl: 'https://uxuidesign.pro',
     social: {
       twitter: '@',
     },
@@ -128,8 +128,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `indesign`,
-        short_name: `indesign`,
+        name: `almanac`,
+        short_name: `almanac`,
         start_url: `/`,
         background_color: `#000`,
         theme_color: `#ffa7c4`,
